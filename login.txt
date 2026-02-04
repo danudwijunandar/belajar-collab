@@ -1,4 +1,4 @@
-Login Activity 
+Login Fragment 
 
 Masukkan Email Anda
 Masukkan Password Anda
