@@ -1,0 +1,4 @@
+REGISTER:
+1. Nama
+2. email
+3. password
